@@ -1,0 +1,25 @@
+1. Sistema de autenticación de usuarios
+    - Permite a los usuarios registrarse, iniciar sesión y cerrar sesión.
+    - Asocia las tareas a usuarios específicos.
+    - Modifica las vistas para mostrar solo las tareas del usuario actual.
+
+2. Categorías para las tareas
+    - Crea un nuevo modelo para las categorías.
+    - Permite a los usuarios asignar categorías a las tareas.
+    - Implementa filtrado de tareas por categoría.
+
+3. Fechas de vencimiento para las tareas
+    - Añade un campo de fecha de vencimiento al modelo de tarea.
+    - Implementa ordenamiento de tareas por fecha de vencimiento.
+    - Crea una vista para mostrar tareas próximas a vencer.
+
+4. Sistema de prioridades
+    - Añade un campo de prioridad al modelo de tarea (por ejemplo, alta, media, baja).
+
+5. Interfaz de usuario mejorada
+    - Implementa drag and drop para reordenar tareas.
+    - Añade confirmaciones con modales para acciones importantes.
+
+6. Subtareas  <-- No estoy seguro de esta
+    - Permite a los usuarios crear subtareas dentro de una tarea principal.
+    - Implementa una vista jerárquica de tareas y subtareas.
